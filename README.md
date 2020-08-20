@@ -1,5 +1,5 @@
 # watermelon-codeforces
-The solution for code forces. (Please do not cheat, this is so you can compare your algo with this and check TIME COMPLEXITY of diff algos)
+The solution for code forces. (Please do not cheat, this is so you can compare your algo with this and check TIME COMPLEXITY of different algos)
 
 
 One hot summer day Pete and his friend Billy decided to buy a watermelon. They chose the biggest and the ripest one, in their opinion. 
